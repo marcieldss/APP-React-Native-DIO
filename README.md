@@ -1,7 +1,7 @@
 # App-React-Native-DIO
-## Do Curso Decola Tech 3ª Edição
+## Curso Decola Tech 3ª Edição
  
-![AppReactNativeDio](https://user-images.githubusercontent.com/102620007/169663647-ebd68aa6-61fd-40c9-8a5e-445695d16313.png)
+ ![AppReactNativeDio](https://user-images.githubusercontent.com/102620007/169663647-ebd68aa6-61fd-40c9-8a5e-445695d16313.png)
 
 # Conteúdo
 - Conhecendo o React Native
